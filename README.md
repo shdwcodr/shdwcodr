@@ -19,7 +19,7 @@ Languages: Python, C, C++- Tools: Linux, Git, Bash, SQL, OpenCV, Flask-
 
 Interests: OSINT, Red Team, Face Recognition, API Automation## 
 
-Featured Projects- **[ONiST](https://github.com/yourusername/onist)** – A Python-based OSINT tool with Google Search API, facial recognition (modular), and profile extraction- 
+Featured Projects- https://github.com/users/shdwcodr/projects/1 – A Python-based OSINT tool with Google Search API, facial recognition (modular), and profile extraction- 
 
 **Web Scraper** (Coming soon)- 
 
