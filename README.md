@@ -30,7 +30,7 @@ Currently Working On:- Google Summer of Code contributions (hit me up if you're 
 Tool development & project leveling up- Daily grind: Code, read, automate, repeat---
 
 
-**Let’s connect:**  LinkedIn: https://www.linkedin.com/in/samiksha-p-7b799a314/ | Discord: shdwcodr | Email:  shadowcoder111@proton.me
+**Let’s connect:**  LinkedIn: https://www.linkedin.com/in/samiksha-p-7b799a314/ | Discord: shdwcodr | Email:  shadowcoder111@proton.me | X: https://x.com/shadow_c0der
 <!--
 **shdwcodr/shdwcodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
