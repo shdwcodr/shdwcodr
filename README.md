@@ -7,7 +7,7 @@ I'm an 18-year-old cybersecurity enthusiast, currently on a mission to break int
 
 🧠 Obsessed with automation, ethical hacking, and open-source tools-
 
-🛠️ Creator of the **ONiST OSINT tool** – fetches, analyzes, and correlates public data like a digital bloodhound- 
+🛠️ Creator of the **ONiST OSINT tool** – fetches, analyzes, and correlates public data like a digital bloodhound- (still working on it)
 
 ⚡ Currently contributing to open-source and prepping for GSoC 2025- 
 
