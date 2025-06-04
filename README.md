@@ -9,19 +9,15 @@ I'm an 18-year-old cybersecurity enthusiast, currently on a mission to break int
 
 🛠️ Creator of the **ONiST OSINT tool** – fetches, analyzes, and correlates public data like a digital bloodhound- (still working on it)
 
-⚡ Currently contributing to open-source and prepping for GSoC 2025- 
+⚡ Currently contributing to open-source and prepping for GSoC 2026- 
 
 🧑‍💻 Freelancing on the side — building scrapers, solving CTFs, automating boring stuff- 
 
 🎯 Long-term goal: Work in global security, launch my own projects, and escape the rat race in < 5 years## Skills- 
 
-Languages: Python, C, C++- Tools: Linux, Git, Bash, SQL, OpenCV, Flask- 
+Languages: Python, C, C++- Tools: Linux, Git, Bash, SQL, python
 
-Interests: OSINT, Red Team, Face Recognition, API Automation## 
-
-Featured Projects- https://github.com/users/shdwcodr/projects/1 – A Python-based OSINT tool with Google Search API, facial recognition (modular), and profile extraction- 
-
-**Web Scraper** (Coming soon)- 
+Interests: OSINT, Red Team, Face, API Automation## 
 
 **CTF Writeups** – Coming as I win them## 
 
