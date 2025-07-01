@@ -1,43 +1,47 @@
+# shdwcodr
 
-# Hey, I’m Shadow Coder
+> systems-focused. quietly building. always watching.
 
-I'm an 18-year-old cybersecurity enthusiast, currently on a mission to break into Google Summer of Code, master open-source, and build tools that solve real problems.
+---
 
-## About Me- 
+### 👨‍💻 Who Am I?
 
-🧠 Obsessed with automation, ethical hacking, and open-source tools-
+I’m a cybersecurity-focused dev working in silence toward **Google Summer of Code 2026**, contributing to core open-source projects like the **Tor Daemon**, and preparing for kernel-level work.  
+No noise — just code, commits, and long-term leverage.
 
-🛠️ Creator of the **ONiST OSINT tool** – fetches, analyzes, and correlates public data like a digital bloodhound- (still working on it)
+---
 
-⚡ Currently contributing to open-source and prepping for GSoC 2026- 
+### 🛠️ Current Focus
 
-🧑‍💻 Freelancing on the side — building scrapers, solving CTFs, automating boring stuff- 
+- 🔐 **Low-level systems dev** (C, C++)
+- 🧠 **Tor Project contributor** – daemon-level contributions
+- 🛠️ **ONiST** – an OSINT tool that digs deep, correlates public data for threat analysis
+- 🧰 Building automation tools, solving CTFs, prepping for real-world red team ops
 
-🎯 Long-term goal: Work in global security, launch my own projects, and escape the rat race in < 5 years## Skills- 
+---
 
-Languages: Python, C, C++- Tools: Linux, Git, Bash, SQL, python
+### 🧃 Core Stack
 
-Interests: OSINT, Red Team, Face, API Automation## 
+Languages: Python, C, C++
+Tools: Git, Linux, Bash, SQL
+Interests: OSINT, Red Teaming, Protocol Tinkering, API Automation
+🔍 Upcoming
+📍 [x] First accepted MR to Tor
 
-**CTF Writeups** – Coming as I win them## 
+📍 [ ] ONiST public beta release
 
-Currently Working On:- Google Summer of Code contributions (hit me up if you're grinding too)- 
+📍 [ ] CTF writeups (once the wins come in)
 
-Tool development & project leveling up- Daily grind: Code, read, automate, repeat---
+📍 [ ] Kernel patch contributions
 
+🤝 Let’s Connect
+📬 Email: shadowcoder111@proton.me
 
-**Let’s connect:**  LinkedIn: https://www.linkedin.com/in/samiksha-p-7b799a314/ | Discord: shdwcodr | Email:  shadowcoder111@proton.me | X: https://x.com/shadow_c0der
-<!--
-**shdwcodr/shdwcodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Discord: shdwcodr
 
-Here are some ideas to get you started:
+🧷 X / Twitter: @shadow_c0der
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 LinkedIn: samiksha-p
+
+💬 Philosophy
+"Build in silence. Drop commits like blades. Let the impact do the talking."
